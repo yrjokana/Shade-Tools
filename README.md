@@ -1,14 +1,14 @@
-# Shade Tools
+# 🖤 Shade Tools
+
+Shade Tools is a collection of lightweight automation utilities made by **[Vexor] Chicken**.  
+It currently includes:
+
+- **Shade Spammer** — a word spammer that types random phrases with adjustable speed.  
+- **Shade Auto Clicker** — a fast and reliable autoclicker that clicks wherever your mouse is.
+
+---
 
 
-Two small input-automation utilities for **testing, accessibility, and education**.
-
-
-- **Shade Auto Clicker** — auto-clicks wherever the mouse cursor is.
-- **Shade Spammer** — types randomized words in a paragraph-style stream.
-
-
-**Author / handle:** `[Vexor] Chicken`
 
 
 ---
@@ -23,33 +23,25 @@ These tools are provided for benign purposes only (UI testing, accessibility, au
 ---
 
 
-## Features
+## ⚙️ How to Use
 
+### 🔹 Shade Spammer
+1. Run `shade_spammer.py`
+2. Focus any text field.
+3. Press **F8** to start/stop spamming.
+4. Press **Esc** to quit the program.
 
-- Toggle on/off with `F8`. Quit with `Esc`.
-- `--only-when-focused` option: operate only when a given window (or the active window) is focused.
-- `--test` mode prints simulated actions instead of sending real input (useful for CI or verification).
-- Adjustable delays and jitter for speed tuning.
-
-
----
-
-
-## Requirements
-
-
-- Python 3.8+
-- `pip install pynput pygetwindow` (optional: `pygetwindow` required for `--only-when-focused` support on many platforms)
-
+### 🔹 Shade Auto Clicker
+1. Run `shade_autoclicker.py`
+2. Move your mouse to where you want to click.
+3. Press **F8** to start/stop clicking.
+4. Press **Esc** to quit.
 
 ---
 
+## 🧩 Requirements
+- Python 3.8 or newer  
+- Install dependencies:
+  ```bash
+  pip install pynput
 
-## Quick usage examples
-
-
-Auto clicker (click wherever mouse is):
-
-
-```bash
-python autoclicker/shade_autoclicker.py --delay 0.005
