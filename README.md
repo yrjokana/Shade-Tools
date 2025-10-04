@@ -6,7 +6,7 @@ It currently includes:
 - **Shade Spammer** — a word spammer that types random phrases with adjustable speed.  
 - **Shade Auto Clicker** — a fast and reliable autoclicker that clicks wherever your mouse is.
 
-**[Download Shade Tools Here](github.com/yrjokana/Shade-Tools/releases/latest)**
+**[Download Shade Tools Here](github.com/yrjokana/Shade-Tools/releases)**
 
 ---
 
