@@ -11,7 +11,7 @@ It currently includes:
 ## 📥 Download
 
 🔗 **[Download Shade Tools Here](https://github.com/yrjokana/Shade-Tools/releases)**  
-Get the latest version (`Shade_Tools_v1.0.0.zip`) from the official releases page.  
+Get the latest version from the official releases page.  
 Each release includes all current Shade utilities and a README with setup instructions.
 
 ---
