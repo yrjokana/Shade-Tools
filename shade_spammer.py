@@ -11,11 +11,15 @@ kb = KController()
 running = False
 stop_flag = False
 
-
+#Lol, Trash Words *Giggles cutely*
 DEFAULT_WORDS = [
-"pog ", "bongo ", "ez ", "hello ", "spam ", "A ", "kekw ", "bruh ", "yeet ", "lol ",
+"pog ", "ez ", "hello ", "spam ", "A ", "kekw ", "bruh ", "yeet ", "lol ",
 "SUBSCRIBE ", "Avocado ", "Cheesus ", "Dan Dingle dingles my dingle ",
-"Team Vexor ", "Vexor Chicken ", "[Vexor] Chicken "
+"Team Vexor ", "Vexor Chicken ", "[Vexor] Chicken ", "Cheese ", "Flint & Steel ",
+"I.. am Steven ", "#Spam ", "Blorp ", "Zindle ", "womp ", "womp womp ", "ChatGPT gave me half of these words ",
+"LowQualityCoding said Lol, Nice Words ", "That's crazy ", "Flint & Cheese ", "#SheWas18InDogYears ",
+"Diciotto anni in anni canini sono da ottantotto a centodieci ", "#69 ", "#35 ", "#NotHighQualityCoding ",
+"#Grr ", "#RunningOutOfWords ", "Whap ", "Snizzle ", "Cronk ", "Glorp ", "Squish ", "Blabble ", "It's Almost Christmas ", "Shade "
 ]
 
 
